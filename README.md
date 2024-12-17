@@ -1,6 +1,6 @@
 # GRAPH-READING
 
-A Python project for fetching and visualizing cryptocurrency data from the CoinMarketCap API.
+A Python project for fetching and visualizing cryptocurrency data from the Etherium, Coingecko, Binance, Coinmarketcap API.
 
 ## Installation
 
