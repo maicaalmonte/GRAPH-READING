@@ -27,14 +27,14 @@ To set up the project locally, follow these steps:
       ```bash
       pip install -r requirements.txt
 
-About
-This project allows users to fetch real-time and historical cryptocurrency data from multiple sources (including Ethereum, Binance, CoinGecko, and CoinMarketCap) using their respective APIs. The data is then processed and visualized to aid in analysis.
+6. About
+#This project allows users to fetch real-time and historical cryptocurrency data from multiple sources (including Ethereum, Binance, CoinGecko, and CoinMarketCap) using their respective APIs. The data is then processed and visualized to aid in analysis.
 
-Key Features:
+#Key Features:
 Fetches OHLCV (Open, High, Low, Close, Volume) data for cryptocurrencies.
 Supports multiple cryptocurrency exchanges like Binance and Kraken.
 Data visualization using matplotlib.
-Includes retry logic for handling temporary API issues or rate limits.
+#Includes retry logic for handling temporary API issues or rate limits.
          ```bash
          python your_script_name.py
 Usage
