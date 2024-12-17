@@ -18,4 +18,6 @@ python -m venv .venv
 # On macOS/Linux:
 ```bash
 source .venv/bin/activate
+
+```bash
 pip install -r requirements.txt
