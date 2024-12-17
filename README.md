@@ -19,5 +19,6 @@ python -m venv .venv
 ```bash
 source .venv/bin/activate
 
+#install requirement
 ```bash
 pip install -r requirements.txt
