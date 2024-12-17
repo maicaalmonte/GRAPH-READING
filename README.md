@@ -13,7 +13,9 @@ To set up the project locally, follow these steps:
 python -m venv .venv
 # Activate the virtual environment:
 # On Windows:
+```bash
 .venv\Scripts\activate
 # On macOS/Linux:
+```bash
 source .venv/bin/activate
 pip install -r requirements.txt
