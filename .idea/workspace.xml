@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdce13b2-24ed-44dd-8a16-c5ff22d6bbb6" name="Changes" comment="" />
+    <list default="true" id="cdce13b2-24ed-44dd-8a16-c5ff22d6bbb6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,12 +21,32 @@
       </list>
     </option>
   </component>
+  <component name="Git.Rebase.Settings">
+    <option name="NEW_BASE" value="master" />
+  </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;maicaalmonte&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/maicaalmonte/GRAPH-READING.git&quot;,
+    &quot;accountId&quot;: &quot;3cb74500-c7eb-4c0f-992d-3b4fefa67c44&quot;
+  }
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2qKGzpExgrtfvje9MvqNc5RUkCS" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -35,16 +59,19 @@
     "Python.BINANCE V3.executor": "Run",
     "Python.BINANCE V4.executor": "Run",
     "Python.BINANCE.executor": "Run",
+    "Python.COINGECKO.executor": "Run",
     "Python.COINMARKETCAP.executor": "Run",
     "Python.CRYPTO VER. 2.executor": "Run",
     "Python.CRYPTO.executor": "Run",
     "Python.CRYTO FINAL CODE.executor": "Run",
     "Python.ETHERIUM V. 1.executor": "Run",
+    "Python.ETHERIUM VER. 2.executor": "Run",
     "Python.OTHERS.executor": "Run",
     "Python.SCRATCH 2.executor": "Run",
     "Python.SCRATCH.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "REAL-TIME-ETHERIUM"
   }
 }]]></component>
   <component name="SharedIndexes">
