@@ -45,3 +45,6 @@ For example, to fetch data from Kraken for the BTC/USD pair, you can run:
     
       
       python your_script_name.py
+
+![Screenshot 2024-12-17 154736](https://github.com/user-attachments/assets/d8958d92-72f3-4789-8741-b208dcb72c58)
+
