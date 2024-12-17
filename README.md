@@ -11,19 +11,18 @@ To set up the project locally, follow these steps:
    git clone https://github.com/maicaalmonte/GRAPH-READING.git
    cd GRAPH-READING
 2. 
-```bash
-python -m venv .venv
+   ```bash
+   python -m venv .venv
 
 2. # Activate the virtual environment:
 3. # On Windows:
-
-```bash
-.venv\Scripts\activate
+   ```bash
+   .venv\Scripts\activate
+   
 4. # On macOS/Linux:
-
-```bash
-source .venv/bin/activate
+   ```bash
+   source .venv/bin/activate
 
 5. #install requirement
-```bash
-pip install -r requirements.txt
+   ```bash
+   pip install -r requirements.txt
