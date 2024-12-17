@@ -15,9 +15,10 @@ To set up the project locally, follow these steps:
    python -m venv .venv
 
 2. # Activate the virtual environment:
- # On Windows:
-      ```bash
-      .venv\Scripts\activate
+3. # On Windows:
+ 
+      ``` bash
+       .venv\Scripts\activate
    
 3. # On macOS/Linux:
       ```bash
@@ -49,6 +50,8 @@ For example, to fetch data from Kraken for the BTC/USD pair, you can run:
 ![Screenshot 2024-12-17 154736](https://github.com/user-attachments/assets/d8958d92-72f3-4789-8741-b208dcb72c58)
 ![Screenshot 2024-12-17 160830](https://github.com/user-attachments/assets/c22027cd-1353-4f5d-8f60-52bf7895882c)
 ![Screenshot 2024-12-17 194742](https://github.com/user-attachments/assets/26d8632b-79da-4703-ab39-5979c4272c9b)
+![Screenshot 2024-12-17 200858](https://github.com/user-attachments/assets/f0720326-718d-488e-9ce6-89d9fb51ee92)
+
 
 
 
