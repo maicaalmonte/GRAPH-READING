@@ -36,12 +36,12 @@ Supports multiple cryptocurrency exchanges like Binance and Kraken.
 Data visualization using matplotlib.
 Includes retry logic for handling temporary API issues or rate limits.
     
-      ```bash
+      
          python your_script_name.py
 Usage
 Once you've set up the project and installed all the dependencies, you can run the script to fetch and visualize cryptocurrency data.
 
 For example, to fetch data from Kraken for the BTC/USD pair, you can run:
     
-      ```bash
+      
       python your_script_name.py
