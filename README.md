@@ -16,13 +16,13 @@ To set up the project locally, follow these steps:
 
 2. # Activate the virtual environment:
  # On Windows:
-   ```bash
-   .venv\Scripts\activate
+      ```bash
+      .venv\Scripts\activate
    
 3. # On macOS/Linux:
-   ```bash
-   source .venv/bin/activate
+      ```bash
+      source .venv/bin/activate
 
 5. #install requirement
-   ```bash
-   pip install -r requirements.txt
+      ```bash
+      pip install -r requirements.txt
