@@ -36,5 +36,5 @@ def plot_realtime_data_interactive(exchange_name, symbol, timeframe):
         fig.show()
 
 
-# Example usage
-plot_realtime_data_interactive('kraken', 'BTC/USDT', '1m')
+# Example usage for Ethereum
+plot_realtime_data_interactive('kraken', 'ETH/USDT', '1m')
