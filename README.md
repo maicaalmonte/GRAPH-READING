@@ -46,7 +46,8 @@ For example, to fetch data from Kraken for the BTC/USD pair, you can run:
     
       
       python your_script_name.py
-
+![Screenshot 2024-12-19 072143](https://github.com/user-attachments/assets/d3737b76-d835-4858-b0ff-4d77367ea6e2)
+![Screenshot 2024-12-19 072212](https://github.com/user-attachments/assets/b06a2fe5-c755-492e-b4af-018ff98e2f0f)
 ![Screenshot 2024-12-19 060921](https://github.com/user-attachments/assets/66cc4414-aeba-4f9a-877d-a6c9ea3f8e19)
 ![Screenshot 2024-12-17 154736](https://github.com/user-attachments/assets/d8958d92-72f3-4789-8741-b208dcb72c58)
 ![Screenshot 2024-12-17 160830](https://github.com/user-attachments/assets/c22027cd-1353-4f5d-8f60-52bf7895882c)
@@ -54,8 +55,6 @@ For example, to fetch data from Kraken for the BTC/USD pair, you can run:
 ![Screenshot 2024-12-17 200858](https://github.com/user-attachments/assets/f0720326-718d-488e-9ce6-89d9fb51ee92)
 ![Screenshot 2024-12-17 212049](https://github.com/user-attachments/assets/e0606e72-82ce-4984-abd4-93d69a6e6d6f)
 ![Screenshot 2024-12-18 003704](https://github.com/user-attachments/assets/20d58f75-535e-4510-bebe-4f7fcde3f602)
-![Screenshot 2024-12-18 150041](https://github.com/user-attachments/assets/ce83f8c9-3ff1-40ff-b3c2-464db828594b)
-![Screenshot 2024-12-18 152246](https://github.com/user-attachments/assets/36a681dd-1fb1-4d88-a412-19a529f17d6a)
 ![Screenshot 2024-12-18 191308](https://github.com/user-attachments/assets/b4122330-6d15-4355-98ae-55f52c69fc4a)
 
 
