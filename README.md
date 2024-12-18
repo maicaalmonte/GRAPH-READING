@@ -53,6 +53,7 @@ For example, to fetch data from Kraken for the BTC/USD pair, you can run:
 ![Screenshot 2024-12-17 200858](https://github.com/user-attachments/assets/f0720326-718d-488e-9ce6-89d9fb51ee92)
 ![Screenshot 2024-12-17 212049](https://github.com/user-attachments/assets/e0606e72-82ce-4984-abd4-93d69a6e6d6f)
 ![Screenshot 2024-12-18 003704](https://github.com/user-attachments/assets/20d58f75-535e-4510-bebe-4f7fcde3f602)
+![Screenshot 2024-12-18 150041](https://github.com/user-attachments/assets/ce83f8c9-3ff1-40ff-b3c2-464db828594b)
 
 
 
