@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdce13b2-24ed-44dd-8a16-c5ff22d6bbb6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="cdce13b2-24ed-44dd-8a16-c5ff22d6bbb6" name="Changes" comment="REAL TIME MORE UNDERSTANDBLE">
+      <change afterPath="$PROJECT_DIR$/ETHERIUM VER. 2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/EACH CURRENCY.py" beforeDir="false" afterPath="$PROJECT_DIR$/EACH CURRENCY.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +31,8 @@
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -42,6 +44,16 @@
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;https://github.com/maicaalmonte/GRAPH-READING.git&quot;,
     &quot;accountId&quot;: &quot;3cb74500-c7eb-4c0f-992d-3b4fefa67c44&quot;
+  },
+  &quot;recentNewPullRequestHead&quot;: {
+    &quot;server&quot;: {
+      &quot;useHttp&quot;: false,
+      &quot;host&quot;: &quot;github.com&quot;,
+      &quot;port&quot;: null,
+      &quot;suffix&quot;: null
+    },
+    &quot;owner&quot;: &quot;maicaalmonte&quot;,
+    &quot;repository&quot;: &quot;GRAPH-READING&quot;
   }
 }</component>
   <component name="ProjectColorInfo">{
@@ -55,17 +67,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.10 PERIOD SMA DATA.executor": "Run",
+    "Python.10 PERIOD SMA FIGURES.executor": "Run",
     "Python.BINANCE V2.executor": "Run",
     "Python.BINANCE V3.executor": "Run",
     "Python.BINANCE V4.executor": "Run",
     "Python.BINANCE.executor": "Run",
+    "Python.COINGECKO V. 2.executor": "Run",
     "Python.COINGECKO.executor": "Run",
     "Python.COINMARKETCAP.executor": "Run",
     "Python.CRYPTO VER. 2.executor": "Run",
     "Python.CRYPTO.executor": "Run",
     "Python.CRYTO FINAL CODE.executor": "Run",
+    "Python.EACH CURRENCY.executor": "Run",
+    "Python.ETHEREUM MORE READABLE.executor": "Run",
+    "Python.ETHEREUM READABLE.executor": "Run",
     "Python.ETHERIUM V. 1.executor": "Run",
+    "Python.ETHERIUM V. 2.executor": "Run",
     "Python.ETHERIUM VER. 2.executor": "Run",
+    "Python.FIGURES COINMARKETCAP.executor": "Run",
+    "Python.FIGURES ETHERIUM.executor": "Run",
+    "Python.FIGURES.executor": "Run",
+    "Python.MORE READABLE.executor": "Run",
     "Python.OTHERS.executor": "Run",
     "Python.SCRATCH 2.executor": "Run",
     "Python.SCRATCH.executor": "Run",
@@ -90,6 +113,78 @@
       <option name="presentableId" value="Default" />
       <updated>1734404118664</updated>
     </task>
+    <task id="LOCAL-00001" summary="real">
+      <option name="closed" value="true" />
+      <created>1734435256955</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1734435256955</updated>
+    </task>
+    <task id="LOCAL-00002" summary="real time no graph">
+      <option name="closed" value="true" />
+      <created>1734435736169</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1734435736169</updated>
+    </task>
+    <task id="LOCAL-00003" summary="real time no graph RENAMED">
+      <option name="closed" value="true" />
+      <created>1734436017349</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1734436017349</updated>
+    </task>
+    <task id="LOCAL-00004" summary="REAL TIME MORE UNDERSTANDBLE">
+      <option name="closed" value="true" />
+      <created>1734441423326</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1734441423326</updated>
+    </task>
+    <task id="LOCAL-00005" summary="REAL TIME MORE UNDERSTANDBLE">
+      <option name="closed" value="true" />
+      <created>1734441450784</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1734441450784</updated>
+    </task>
+    <task id="LOCAL-00006" summary="REAL TIME MORE UNDERSTANDBLE">
+      <option name="closed" value="true" />
+      <created>1734441474042</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1734441474042</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="real" />
+    <MESSAGE value="real time no graph" />
+    <MESSAGE value="real time no graph RENAMED" />
+    <MESSAGE value="REAL TIME MORE UNDERSTANDBLE" />
+    <option name="LAST_COMMIT_MESSAGE" value="REAL TIME MORE UNDERSTANDBLE" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ETHERIUM V. 1.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/ETHERIUM V. 2.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
